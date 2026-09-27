@@ -97,8 +97,8 @@
 
 **Step 1 — Clone the repository**
 ```bash
-git clone https://github.com/KIRU-OP/VIP-MUSIC
-cd VIP-MUSIC
+git clone [https://github.com/KIRU-OP/VIP-MUSIC](https://github.com/VNI0XPVT/VIP-NOBITA-MUSIC
+cd VIP-NOBITA-MUSIC
 ```
 
 **Step 2 — Run the setup script**
