@@ -97,7 +97,7 @@
 
 **Step 1 — Clone the repository**
 ```bash
-git clone [https://github.com/KIRU-OP/VIP-MUSIC](https://github.com/VNI0XPVT/VIP-NOBITA-MUSIC
+git clone https://github.com/VNI0XPVT/VIP-NOBITA-MUSIC
 cd VIP-NOBITA-MUSIC
 ```
 
